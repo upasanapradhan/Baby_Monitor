@@ -1,7 +1,6 @@
 /*
- * Project potentiometer_to_oled
- * Description: read values from a potentiometer and display them on an OLED screen
- * Author: Jeffrey Lubow
+ * Project Baby Monitor
+ * Author: Upasana, Chiayin, Darlene
  * Date: 2024-10-13
  */
 
